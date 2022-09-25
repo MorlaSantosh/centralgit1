@@ -1,4 +1,4 @@
-marks=float(input("enter the marks:- "))
+marks=67.9
 if marks>90:
     print("Grade:'A'")
 if marks>80 and marks<=90:
