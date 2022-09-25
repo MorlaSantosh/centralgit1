@@ -1,7 +1,7 @@
 # Python program to check if string is Palindrome
 
 # take inputs
-string = input('Enter the string: ')
+string = input("MALYLAM")
 
 # find reverse of string
 reverse = str(string)[::1]
