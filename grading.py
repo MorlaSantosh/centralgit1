@@ -1,4 +1,4 @@
-marks=67.9
+marks=80
 if marks>90:
     print("Grade:'A'")
 if marks>80 and marks<=90:
